@@ -6,4 +6,23 @@
   padding: 0.5em;
 }
 
+.countries--second {
+  display: flex;
+  justify-content: space-around;
+}
+
+.countries--first {
+  justify-content: right;
+}
+
+.countries--third {
+  flex-direction: column;
+  justify-content: flex-end;
+}
+
+.countries--fourth {
+  flex-direction: column-reverse;
+  justify-content: space-around;
+}
+
 /* Add your own CSS code below */
